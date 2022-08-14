@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "declarative_macro",
+  "hello",
+  "hello_macro",
+  "hello_macro_derive",
+]
